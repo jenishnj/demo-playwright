@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/jenishnj/demo-playwright#readme",
   "devDependencies": {
-    "@playwright/test": "^1.27.1"
+    "@playwright/test": "^1.27.1",
+    "dotenv": "^16.0.3"
   }
 }
